@@ -1,7 +1,7 @@
 # Data_Siswa
 Jika ingin memasukan data siswa menggunakan database(sql)
 
-Buatlah table dan databasenya:
+Buatlah table dan database:
 
 CREATE DATABASE school;
 CREATE TABLE students (
